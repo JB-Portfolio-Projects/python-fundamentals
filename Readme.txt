@@ -1,0 +1,2 @@
+This is the first repository made to learn python. It includes Python Fundamentlas 1 course from the Python insitute, and any practice I get from ChatGPT. Udemy and other courses will
+have their own repositories, as well as personal projects I get ideas for through improving programming skills.
