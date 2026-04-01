@@ -14,5 +14,18 @@ def to_roman(num):
 
     return result
 
-year = int(input("Enter a year: "))
-print("Roman Numeral:", to_roman(year))
+while True:
+    user_input = input("Enter a year (1-3999) or 'q' to quit: ")
+    
+    if user_input.lower() == 'q':
+        print("Goodbye!")
+        break
+    
+    if user_input.isdigit():
+        year = int(user_input)
+        if 1 <= year <= 3999:
+            print("Roman numeral:", to_roman(year))
+        else:
+            print("Please enter a number between 1 and 3999.")
+    else:
+        print("Invalid input. Please enter a number.")
