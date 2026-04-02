@@ -1,15 +1,26 @@
-#import random and string,  input to define legnth.
+#import modules for random password generation.
 import random
 import string
 
-length = int(input("Enter password length : "))
-
-characters = string.ascii_letters + string.digits + string.punctuation
-
-password = ""
-
-#need random generation of password, so use random.choice to select random characters from the defined character set.
-for _ in range(length):
-    password += random.choice(characters)
+while True:
+    user_input  = input("Enter password length or 'q' to quit: ")
     
-print("Generated password : ", password)
+    if user_input.lower() == 'q':
+        print("Goodbye!")
+        break
+    
+    if user_input.isdigit():
+        length = int(user_input)
+        
+        if length > 0:
+            characters = string.ascii_letters + string.digits + string.punctuation
+            password = ""
+            
+            for _ in range(length):
+                password += random.choice(characters)
+                
+            print("Generated password:", password)
+        else:
+            print("please enter a number greater than 0.")
+    else:
+        print("Invalid input. Please enter a number.")
