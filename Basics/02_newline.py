@@ -14,3 +14,7 @@ print("Monty Python")
 
 #use the sep keyword argument
 print ("My", "name", "is", "Monty", "Python.", sep="-")
+
+#use sep and end
+print("My", "name", "is", sep="_", end="*")
+print("Monty", "Python.", sep="*", end="*\n")
