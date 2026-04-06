@@ -2,5 +2,9 @@
 print("=== Weather App v1.0 ===")
 
 city = input("Enter a city: ")
-print(f"fetching weather for: {city}")
-print("Weather data coming soon...")
+
+if city =="":
+    print("You must enter a city")
+else:
+    print(f"fetching weather for: {city}")
+    print("Weather data coming soon...")
