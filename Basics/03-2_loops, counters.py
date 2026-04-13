@@ -33,3 +33,19 @@ for i in range(1, 6):
 
 print("Ready or not, here I come")
 # Write a print function with the final message.
+
+#Collatz's hypothesis
+n = int(input("Enter a natural number: "))
+
+steps = 0
+
+while n != 1:
+    if n % 2 == 0:
+        n = n // 2
+    else:
+        n = 3 * n + 1
+        
+    print(n)
+    steps += 1
+    
+print("steps =", steps)
