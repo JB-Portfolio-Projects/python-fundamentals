@@ -3,7 +3,7 @@ print("=== Weather App v1.0 ===")
 
 city = input("Enter a city: ")
 
-if city =="":
+if city.strip() == "":
     print("You must enter a city")
 else:
     print(f"fetching weather for: {city}")
