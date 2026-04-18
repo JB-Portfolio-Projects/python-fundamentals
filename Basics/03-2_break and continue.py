@@ -1,0 +1,89 @@
+# break - example
+
+print("The break instruction:")
+for i in range(1, 6):
+    if i == 3:
+        break
+    print("Inside the loop.", i)
+print("Outside the loop.")
+
+
+# continue - example
+
+print("\nThe continue instruction:")
+for i in range(1, 6):
+    if i == 3:
+        continue
+    print("Inside the loop.", i)
+print("Outside the loop.")
+
+
+#largest number with break
+largest_number = -99999999
+counter = 0
+
+while True:
+    number = int(input("Enter a number or type -1 to end the program: "))
+    if number == -1:
+        break
+    counter += 1
+    if number > largest_number:
+        largest_number = number
+
+if counter != 0:
+    print("The largest number is", largest_number)
+else:
+    print("You haven't entered any number.")
+
+
+
+#continue
+largest_number = -99999999
+counter = 0
+
+number = int(input("Enter a number or type -1 to end program: "))
+
+while number != -1:
+    counter += 1
+    if number > largest_number:
+        largest_number = number
+    number = int(input("Enter a number or type -1 to end program: "))
+
+if counter:
+    print("The largest number is", largest_number)
+else:
+    print("You haven't entered any number.")
+
+    #lab excercise
+  # Prompt the user to enter a word
+user_word = input("Enter a word: ")
+user_word = user_word.upper()
+# and assign it to the user_word variable
+
+for letter in user_word:
+    if letter in "AEIOU":
+        continue
+    print(letter)
+    # Complete the body of the for loop.
+
+#refined lab excercise
+word_without_vowels = ""
+
+user_word = input("Enter a word: ")
+user_word = user_word.upper()
+
+# Prompt the user to enter a word
+# and assign it to the user_word variable.
+
+
+for letter in user_word:
+    if letter in "AEIOU":
+        continue
+    word_without_vowels += letter
+    
+print(word_without_vowels)
+    # Complete the body of the loop.
+
+# Print the word assigned to word_without_vowels.
+
+
