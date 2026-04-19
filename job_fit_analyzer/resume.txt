@@ -1,0 +1,59 @@
+
+GitHub: https://github.com/JB-Portfolio-Projects/python-fundamentals
+
+PROFESSIONAL SUMMARY
+Motivated IT professional with a strong foundation in technical support and a growing specialization in cloud technologies. AWS certified and actively building skills in Python programming and Microsoft Azure fundamentals to support automation and cloud operations. I am known for continuous learning, problem solving, and adapting quickly to new technologies in dynamic IT environments.
+
+Core Skills
+Product support | Customer Success | Requirements Gathering | Process Improvement | Stakeholder Communications | Root Cause Analysis | Workflow Optimization | Technical Documentation | Jira | ServiceNow | Active Directory | SQL (Basic) | Linux (Basic) | Systems Monitoring | Data Validation | Cloud Fundamentals (AWS), IAM, EC2, S3, CloudWatch Fundamentals | Python (learning fundamentals) | Basic scripting and automation concepts.
+
+ Professional Experience
+Computer Operator II - Brightstar Lottery | 2022-Present
+•	Monitor system security and validate operational workflows to ensure accuracy and reliability.
+•	Analyze failures and restore processes to prevent further downtime and customer impact.
+•	Prepare and deploy applications to field machines using Linux environments.
+•	Collaborate cross-functionally to resolve operational issues and improve system performance.
+•	Trained new operators to improve team efficiency and onboarding speed.
+*Recognized for reliability in maintaining mission-critical systems and meeting operational deadlines.
+
+J.P. Morgan Contract – Randstad | 2022
+•	Verified financial data across systems to ensure accuracy and compliance
+•	Reconciled discrepancies affecting reporting and customer accounts
+•	Maintained strict confidentiality of sensitive financial records.
+
+Electronics Repair Technician – Ivy Technology | 2021
+•	Diagnosed technical failures and completed repairs within target timelines.
+•	Partnered with QA teams to improve reliability and reduce repeat issues.
+
+IT Service Desk Technician – CompuCom Systems | 2016
+•	Resolved technical issues for users while maintaining high satisfaction levels.
+•	Managed user permissions through Active Directory.
+•	Documented issue trends to support process improvement initiatives.
+
+IT Intern – YMCA | 2014
+•	Maintained database integrity and account records.
+•	Updated website content and supported administrative systems.
+
+EDUCATION
+Sullivan University | A.S. Information Technology – In Progress
+Kaplan University (now Purdue) – M.S. Higher Education
+Berea College | B.A. Music
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner - Certified 10/30/2025
+AWS Certified A.I. Practitioner – Certified 03/26/2026
+Python Entry-Level Programmer – In Progress
+Microsoft Azure Fundamentals – Planned
+AWS Solutions Architect – Planned
+
+PROJECTS
+Python Fundamentals Projects | GitHub: https://github.com/JB-Portfolio-Projects/python-fundamentals
+	-Built multiple Python Applications including:
+•	Roman Numeral Converter (v1.1) with input validation and looping
+•	Password Generator (v1.2) with customizable character sets and validation
+•	Number Guessing Game (v1.1) with attempt tracking and user input handling
+-Used Git branching, pull requests, and version control workflows.
+-Practiced clean code structure and iterative development.
+
+
+
