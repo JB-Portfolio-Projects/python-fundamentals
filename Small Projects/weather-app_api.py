@@ -2,7 +2,7 @@
 print("=== Weather App v1.3 ===")
 
 city = input("Enter a city: ").strip().title()
-
+#Version 1.3
 if city == "":
     print("You must enter a city")
 elif city == "Louisville":
