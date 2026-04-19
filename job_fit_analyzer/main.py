@@ -17,8 +17,10 @@ def main():
     keywords = [
         #IT /Tech
         "python",
+        "programming",
         "sql",
         "aws",
+        "Amazon Web Services"
         "cloud",
         "technical support",
         "troubleshooting",

@@ -1,0 +1,55 @@
+Overview
+ 
+
+We are seeking a highly skilled and motivated Portal Content Developer to join our dynamic team. This role is perfect for a developer who is passionate about creating cutting-edge digital experiences, has a strong background in traditional web and mobile app technologies, and possesses expertise in the Adobe Experience Manager (AEM) platform. A critical component of this position will be the ability to integrate and to enhance personalization, content delivery, and overall user experience for both the NJ Lottery website and mobile app.
+
+
+This role is hybrid in Trenton, NJ.  Candidate must live within 60 minutes of Trenton.
+
+Responsibilities
+ 
+
+•           AEM Development: Design, develop, and deploy robust, scalable, and secure applications and components within Adobe Experience Manager (AEM).
+
+•           Front-End Development: Write clean, efficient, and well-documented JSON to build responsive, high-performance user interfaces.
+
+•           Database Management: Work with MySQL databases to design schemas, write complex queries, and ensure efficient data storage and retrieval for web/mobile applications.
+
+•           API Integration: Implement and integrate APIs (e.g., for content tagging, personalization, search relevance, or chat functionality) into the AEM and front-end architecture.
+
+•           Collaboration: Work closely with UX/UI designers, content strategists, and back-end engineers to manage technical requirements and ensure seamless integration of all parts of the application.
+
+•           Optimization: Troubleshoot, debug, and optimize application performance, focusing on speed, scalability, and security across all platforms.
+
+•           Best Practices: Adhere to and promote coding standards, perform code reviews, and stay current with the latest web/mobile app development, AEM, and AI technology trends.
+
+________________________________________
+
+Additional duties shall include:
+
+•           Support product launches ensuring website pages are activated at appropriate times, occasionally during non-business hours
+
+•           Maintain analytic code for KPI reporting
+
+•           Participate in Software Requirement Specification reviews.
+
+•           Conduct Customer Accept Testing: tests and validate content and functionality as delivered from technology team.
+
+•           Additional job duties as assigned.
+
+Qualifications
+ 
+
+Minimum of 5+ years of professional experience in web/mobile development.
+AEM Expertise: Proven track record of developing custom components, templates, and workflows in Adobe Experience Manager (AEM 6.x and higher).
+Programming Skills: Expert-level proficiency in JavaScript (ES6+), HTML5, and CSS3/SASS/LESS.
+Database Skills: Strong working knowledge of MySQL, including database design, optimization, and advanced SQL querying.
+API Experience: Practical experience integrating and working with APIs.
+General: Experience with version control systems and Agile development methodologies.
+ 
+
+Preferred Qualifications
+
+Certification in Adobe Experience Manager (e.g., AEM Developer or Architect).
+Experience with cloud platforms (Amazon Web Services, Azure, or Google Cloud Platform).
+Knowledge of server-side programming languages such as Java or Python.
