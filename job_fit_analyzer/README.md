@@ -6,7 +6,7 @@ A Python project that compares a resume to a job description and calculates a ma
 
 -Reads resume text from a file
 -Reads job description from a file
--Finds matrching keywords
+-Finds matching keywords
 -Shows missing keywords
 -Calculates a fit score
 -Reccomends whether to apply
