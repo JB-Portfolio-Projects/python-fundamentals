@@ -20,7 +20,7 @@ def main():
         "programming",
         "sql",
         "aws",
-        "Amazon Web Services"
+        "Amazon Web Services",
         "cloud",
         "technical support",
         "troubleshooting",
@@ -34,6 +34,10 @@ def main():
         "excel",
         "data analysis",
         "analytics",
+        "user support",
+        "cloud platform",
+        "scripting",
+
 
         #Business / Non-IT / Transferrable
         "communication",
