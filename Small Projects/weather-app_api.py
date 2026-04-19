@@ -1,13 +1,27 @@
 #v1.0, add user input, store data, and output response
-print("=== Weather App v1.2 ===")
+print("=== Weather App v1.3 ===")
 
-city = input("Enter a city: ").strip()
+city = input("Enter a city: ").strip().title()
 
 if city == "":
     print("You must enter a city")
-else:
+elif city == "Louisville":
     print("\n--- Weather Report ---")
-    print(f"fetching weather for: {city}")
+    print(f"City: {city}")
     print("Temprature: 72°F")
-    print("Condition: Partly cloudy")
-    print("------------------------------")
+    print("Condition: Sunny")
+    print("----------------------")
+elif city == "New Albany":
+    print("\n--- Weather Report ---")
+    print(f"City: {city}")
+    print("Temperature: 68°F")
+    print("Condition: Cloudy")
+    print("----------------------")
+elif city == "Indianapolis":
+    print("\n--- Weather Report ---")
+    print(f"City: {city}")
+    print("Temperature: 65°F")
+    print("Condition: Rainy")
+    print("----------------------")
+else:
+    print(f"Sorry, no weather data available yet for {city}")
