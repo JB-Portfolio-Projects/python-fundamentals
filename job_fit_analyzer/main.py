@@ -96,5 +96,4 @@ def main():
         print("Recommendation: Possible fir. Review role")
     else:
         print("Recommendation Low Fit. Lower priority")
-
 main()
