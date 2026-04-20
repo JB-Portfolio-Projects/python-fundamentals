@@ -93,7 +93,7 @@ def main():
     if match_score >= 70:
         print("Recommendation: Strong fit. Apply")
     elif match_score >=40:
-        print("Recommendation: Possible fir. Review role")
+        print("Recommendation: Possible fit. Review role")
     else:
         print("Recommendation Low Fit. Lower priority")
 main()
